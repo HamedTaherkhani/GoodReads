@@ -3,3 +3,4 @@ matplotlib
 scipy
 networkx
 numpy
+nest_asyncio
