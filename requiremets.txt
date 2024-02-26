@@ -4,3 +4,5 @@ scipy
 networkx
 numpy
 nest_asyncio
+community
+tqdm
