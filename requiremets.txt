@@ -6,3 +6,4 @@ numpy
 nest_asyncio
 community
 tqdm
+python-louvain
